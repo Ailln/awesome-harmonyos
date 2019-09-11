@@ -66,6 +66,7 @@
 ## Link
 
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS): 一个非官方库链接，这个库中给出了 Huawei LiteOS 源码，它是华为面向物联网领域开发的一个基于实时内核的轻量级操作系统，但和鸿蒙OS相比是不同的操作系统。
+- [HarmonyOS](https://github.com/huawei-iot/HarmonyOS): 鸿蒙系统资料。
 
 ## Chat
 

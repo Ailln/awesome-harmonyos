@@ -4,6 +4,8 @@
 
 🚀 A curated list of awesome HarmonyOS libraries and resources. (华为「鸿蒙OS」的精选资源列表)
 
+> 💬「鸿蒙开发者交流群」：请添加微信号：`_Ailln`，备注「鸿蒙」。
+
 ## How to Use
 
 `Awesome HarmonyOS` is an amazing list for people who need a certain feature on their app, so the best ways to use it are:
@@ -80,4 +82,4 @@
 
 ## Chat
 
-请添加微信号：`_Ailln`，备注「hos」，我邀请你进入交流群。
+请添加微信号：`_Ailln`，备注「鸿蒙」，我邀请你进入「鸿蒙开发者交流群」。

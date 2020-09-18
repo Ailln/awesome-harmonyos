@@ -4,7 +4,7 @@
 
 🚀 A curated list of awesome HarmonyOS libraries and resources. (华为「鸿蒙OS」的精选资源列表)
 
-> 💬「鸿蒙开发者交流群」：请添加微信号：`_Ailln`，备注「鸿蒙」。
+> 💬「鸿蒙开发者交流群」：请添加微信号：`Ailln_`，备注「鸿蒙」。
 
 ## How to Use
 
@@ -82,4 +82,4 @@
 
 ## Chat
 
-请添加微信号：`_Ailln`，备注「鸿蒙」，我邀请你进入「鸿蒙开发者交流群」。
+请添加微信号：`Ailln_`，备注「鸿蒙」，我邀请你进入「鸿蒙开发者交流群」。
